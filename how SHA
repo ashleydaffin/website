@@ -1,0 +1,23 @@
+[33mcommit 4fae7aca7dc9509ce2ea67a0487ad546b5399abe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ashley Daffin <ashleyedaffin@gmail.com>
+Date:   Sun Mar 14 19:46:34 2021 -0700
+
+    Add baz
+
+[33mcommit 805a1ecd96c44a984da19823da2d7edab196b562[m
+Author: Ashley Daffin <ashleyedaffin@gmail.com>
+Date:   Sun Mar 14 19:45:05 2021 -0700
+
+    Add content to index.html
+
+[33mcommit c5a134dcc8f5b6707d9c07a65d1ec345e0218d78[m
+Author: Ashley Daffin <ashleyedaffin@gmail.com>
+Date:   Sun Mar 14 19:41:31 2021 -0700
+
+    "Add bar"
+
+[33mcommit 0dd136d3f7dc23c067f5223ca43463d163629fc2[m
+Author: Ashley Daffin <ashleyedaffin@gmail.com>
+Date:   Sun Mar 14 19:32:00 2021 -0700
+
+    Initialize repo
